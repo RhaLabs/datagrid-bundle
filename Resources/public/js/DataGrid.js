@@ -50,7 +50,7 @@
                 enableDeleteBtn: false,
                 viewParams: {},
                 searchParams: {
-                    sopt: ['cn', 'ne', 'lt', 'le', 'gt', 'ge', 'bw', 'bn', 'ew', 'en', 'eq', 'nc'], 
+                    sopt: ['eq', 'ne', 'lt', 'le', 'gt', 'ge', 'bw', 'bn', 'ew', 'en', 'cn', 'nc'], 
                     multipleSearch:true, 
                     multipleGroup:false
                 },
